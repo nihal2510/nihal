@@ -5,6 +5,8 @@
     { "Id": 3, "Word": "Technicians Facility – Local", "Abbrevation": "TF-L" },
     { "Id": 4, "Word": "Technicians Facility – Server", "Abbrevation": "TF-S" },
     { "Id": 5, "Word": "Technicians Facility – Remote", "Abbrevation": "TF-R" },
-    { "Id": 6, "Word": "Technicians Facility ", "Abbrevation": "TF" }
+    { "Id": 6, "Word": "Technicians Facility ", "Abbrevation": "TF" },  
+    { "Id": 7, "Word": "Code Collaborator ", "Abbrevation": "CCB" },  
+    { "Id": 8, "Word": "CheckSum ", "Abbrevation": "MD5" },  
   ]  
 }
